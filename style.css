@@ -53,3 +53,16 @@ html {
 .bio{
     padding-top: 30px;
 }
+
+
+.abilities{
+    height: 500px;
+    width: 100%;
+    background: linear-gradient(to bottom, black, transparent);
+}
+
+.abilities h1{
+    text-align: center;
+    color: whitesmoke;
+    margin: 0;
+}
