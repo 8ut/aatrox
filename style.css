@@ -69,6 +69,11 @@ body, html {
     padding: 50px 0;
     background: linear-gradient(to bottom, black, #212122);
     text-align: center;
+    display: flex;
+}
+
+.ability-container{
+    width: 40%;
 }
 
 .abilities h1 {
@@ -84,10 +89,8 @@ body, html {
 }
 
 .video-player{
-    width: 50%;
-    height: 500px;
-    background: linear-gradient(to bottom, black, #212122);
-    float: right;
+    width: 40%;
+    background: pink;
 }
 
 
