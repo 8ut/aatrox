@@ -70,6 +70,8 @@ body, html {
     background: linear-gradient(to bottom, black, #212122);
     text-align: center;
     display: flex;
+    justify-content: space-evenly;
+    color: whitesmoke;
 }
 
 .ability-container{
@@ -81,6 +83,7 @@ body, html {
     font-size: 3rem;
     margin-bottom: 20px;
 }
+
 
 .abilities img {
     width: 80px;
