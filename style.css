@@ -93,7 +93,9 @@ body, html {
 
 .video-player{
     width: 40%;
-    background: pink;
 }
 
+.video-player video{
+    padding-top: 50px;
+}
 
